@@ -20,5 +20,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meowmereo&theme=dark" alt="meowmereo streak" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowmereo&layout=compact&theme=dark" alt="meowmereo top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meowmereo&layout=compact&theme=dark" alt="meowmereo top langs" />
 </p>

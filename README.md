@@ -19,6 +19,8 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meowmereo&theme=dark" alt="meowmereo streak" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=meowmereo&layout=compact&theme=dark" alt="meowmereo top langs" />
+</p>
+
+<p align="center">
+  [![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=meowmereo&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </p>

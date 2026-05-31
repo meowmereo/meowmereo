@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  [![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=meowmereo&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=meowmereo&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </p>
